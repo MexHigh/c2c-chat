@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"leon.wtf/encryption/rsa"
+	rsa "git.leon.wtf/leon/encryption-in-go/rsa"
 )
 
 func main() {
